@@ -2,13 +2,13 @@
 
 ## Student Details
 
-- **Full Name:** `Rakay Quadri`
-- **CCID:** `rakay`
+- **Full Name:** Rakay Quadri
+- **CCID:** rakay
 
 ## References and Resources
 
 List any resources used here, or simply put `N/A` if not applicable.
-- 'N/A'
+- N/A
 
 ## Verbal Collaboration
 
