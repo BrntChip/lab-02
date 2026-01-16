@@ -8,7 +8,8 @@
 ## References and Resources
 
 List any resources used here, or simply put `N/A` if not applicable.
-- N/A
+- Stack overflow
+- Chatgpt for delete functions
 
 ## Verbal Collaboration
 
